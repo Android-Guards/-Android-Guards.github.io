@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Android Guards</title>
-    <link>http://example.org/en/tags/</link>
+    <link>https://android-guards.github.io/en/tags/</link>
     <description>Recent content in Tags on Android Guards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <copyright>Android Guards</copyright><atom:link href="http://example.org/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Android Guards</copyright><atom:link href="https://android-guards.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
